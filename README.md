@@ -1,8 +1,8 @@
-# :video_game: About Me:
+# :video_game: Sobre Mim:
 Eu sou o Vitor, sou um programador Front End, atualmente estou aprendendo HTML, CSS e JS.
 
 
-## 🌐 Socials:
+## 🌐 Socias:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/virtu#1849) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-silva-036884228/) 
 
 # 💻 Tech Stack:
